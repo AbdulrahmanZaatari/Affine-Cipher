@@ -225,3 +225,4 @@ public class ModifiedAffineCipher {
         fileWriter.close();
     }
 }
+>>>>>>> master
